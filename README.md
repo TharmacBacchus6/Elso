@@ -1,3 +1,3 @@
-# Elso
-Első
+﻿# Masodik
+Második
 Helo Tesa
